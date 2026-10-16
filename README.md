@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=220&section=header&text=Thomas%20Woolley&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergraduate%20%7C%l&descAlignY=60&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=220&section=header&text=Thomas%20Woolley&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergraduate&descAlignY=60&descSize=18" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Thomas+Woolley;BSc+Computer+Science+%40+University+of+York;Studying+at+first-class+level+%F0%9F%8E%93;Breaking+things+to+learn+how+to+secure+them+%F0%9F%94%90;Open+to+summer+internships+in+cyber+security+%F0%9F%9A%80" alt="Typing SVG" />
