@@ -1,8 +1,3 @@
-<!-- ============================================================
-  TODO before publishing:
-  3. Fill in the Projects section with your real repos
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=220&section=header&text=Thomas%20Woolley&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20Cyber%20Security%20Professional&descAlignY=60&descSize=18" alt="Header banner" />
