@@ -65,10 +65,10 @@ class Tom:
 
 ## 🔭 What I'm Up To
 
-- 🔐 Building a solid foundation in **cyber security** alongside my degree
-- 🌐 Digging into **network security** and how systems get defended (and attacked)
-- 💻 Sharpening my **Java** and **Python** through coursework and personal projects
-- 🤝 Looking for a **summer internship** where I can get real, hands-on security experience
+- 🔐 Building foundations in **cyber security** alongside my degree
+- 🌐 Researching into **network security**.
+- 💻 Developing skills in **Java** and **Python** through coursework and projects
+- 🤝 Looking for a **summer internships** to build experience.
 
 ---
 
@@ -88,7 +88,7 @@ class Tom:
 
 ## 📫 Let's Connect
 
-I'm always happy to chat.
+Get in touch.
 
 <div align="center">
 
