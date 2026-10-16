@@ -101,11 +101,6 @@ I'm always happy to chat.
 
 <br/>
 
-```text
-$ sudo make-me-better-at-security --every-day
-[sudo] password for thomas: ********
-Permission granted. Keep learning. 🔐
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=120&section=footer" alt="Footer banner" />
 
