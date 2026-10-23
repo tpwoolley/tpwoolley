@@ -23,14 +23,11 @@ class Tom:
     name        = "Tom Woolley"
     university  = "University of York"
     degree      = "BSc Computer Science (Year 2)"
-    performance = "First-class level"
+    performance = "First-class"
     focus       = ["Cyber Security", "Network Security", "Information Security"]
-    languages   = ["Java", "Python"]
+    languages   = ["Java", "Python", "C#", "C", "HTML", "CSS"]
     certs       = ["ISC2 CC", "CIISec AfCIIS", "CIISec Cyber EPQ"]
-    status      = "Looking for a summer internship in security 🔎"
-
-    def goal(self):
-        return "Build a career in cyber security, one practical skill at a time."
+    status      = "Open to summer internship oppertunites"
 ```
 
 ---
@@ -63,7 +60,7 @@ class Tom:
 
 ---
 
-## 🔭 What I'm Up To
+## 🔭 Currently i am...
 
 - 🔐 Building foundations in **cyber security** alongside my degree
 - 🌐 Researching into **network security**.
